@@ -70,7 +70,5 @@ public class CalculatorTest {
 		int actual = cal.devide(a, b);
 		int expected =1753;
 		assertEquals (expected,actual);
-
-
 	}
 }
